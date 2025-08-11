@@ -1,13 +1,13 @@
 ## Hi there 👋
 
 <h1 align="center">
-  <span style="background: linear-gradient(90deg, #00C4FF, #ff00c4); -webkit-background-clip: text; color: transparent;">
+  <span style="background: linear-gradient(90deg, #ff6ec4, #7873f5, #00f2fe); -webkit-background-clip: text; color: transparent; font-weight: bold;">
     Hi there, I'm Rishabh 👋
   </span>
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF00C4,00C4FF,FFD700&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MCA+Student;Node.js+%7C+Express.js+%7C+JavaScript;Cloud+%7C+DevOps+%7C+AI+Learner;Always+Learning+New+Tech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF007F,FFD700,00FFFF,00FF00,FF6EC4,7873F5&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MCA+Student;Node.js+%7C+Express.js+%7C+JavaScript;Cloud+%7C+DevOps+%7C+AI+Learner;Always+Learning+New+Tech" alt="Typing SVG" />
 </p>
 
 ---
@@ -19,7 +19,7 @@
 - 🔭 Currently working on **Cloud Projects, DevOps Pipelines, and AI-based apps**
 - 👯 Looking to collaborate on **Full Stack** and **AI-based Web Projects**
 - 💡 Interested in creating **modern websites** with clean code and great UI
-- 📫 Reach me at: **rishabhs3011@gmail.com**
+- 📫 Reach me at: **[rishabhs3011@gmail.com](mailto:rishabhs3011@gmail.com?subject=Hello%20Rishabh&body=I%20would%20like%20to%20connect%20with%20you%20regarding...)**
 - 🌐 Portfolio: [Visit Here](https://github.com/Rishabhs-2004/My-Portfolio)
 - ⚡ Fun Fact: Coffee + Code = Perfect Combo ☕💻
 
@@ -69,7 +69,7 @@
 
 ### 🔗 Connect With Me
 <p align="center">
-  <a href="mailto:rishabhs3011@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:rishabhs3011@gmail.com?subject=Hello%20Rishabh&body=I%20would%20like%20to%20connect%20with%20you%20regarding..."><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/Rishabhs-2004"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/rishabh-singh-3b85a6334"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/Rishabhs-2004/My-Portfolio"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
