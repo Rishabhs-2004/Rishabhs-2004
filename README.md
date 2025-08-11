@@ -27,7 +27,25 @@
 
 ### 🛠️ Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,redux,js,ts,html,css,nodejs,express,mongodb,python,git,github,vscode,postman,docker,aws,jenkins" />
+  <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" /></a>
+  <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" /></a>
+  <a href="https://getbootstrap.com/"><img src="https://skillicons.dev/icons?i=bootstrap" /></a>
+  <a href="https://redux.js.org/"><img src="https://skillicons.dev/icons?i=redux" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" /></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" /></a>
+  <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" /></a>
+  <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" /></a>
+  <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" /></a>
+  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" /></a>
+  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" /></a>
+  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" /></a>
+  <a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman" /></a>
+  <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" /></a>
+  <a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws" /></a>
+  <a href="https://www.jenkins.io/"><img src="https://skillicons.dev/icons?i=jenkins" /></a>
 </p>
 
 ---
