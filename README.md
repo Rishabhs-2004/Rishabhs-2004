@@ -1,9 +1,13 @@
 ## Hi there 👋
 
-<h1 align="center">Hi there, I'm Rishabh 👋</h1>
+<h1 align="center">
+  <span style="background: linear-gradient(90deg, #00C4FF, #ff00c4); -webkit-background-clip: text; color: transparent;">
+    Hi there, I'm Rishabh 👋
+  </span>
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MCA+Student;Node.js+%7C+Express.js+%7C+JavaScript;Cloud+%7C+DevOps+%7C+AI+Learner;Always+Learning+New+Tech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF00C4,00C4FF,FFD700&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MCA+Student;Node.js+%7C+Express.js+%7C+JavaScript;Cloud+%7C+DevOps+%7C+AI+Learner;Always+Learning+New+Tech" alt="Typing SVG" />
 </p>
 
 ---
@@ -57,7 +61,9 @@
 ---
 
 ### 📜 Certificates
-🚧 Coming Soon...
+- [Cybersecurity – Cisco Networking Academy](https://www.linkedin.com/posts/rishabh-singh-3b85a6334_cybersecurity-cisco-networkingacademy-activity-7356481083502211074-LaB3?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFQX0LwBblkn7e0lMLwRoJd3K5M2bZey1Lw)
+- [Data Science & Analytics – Future Interns](https://www.linkedin.com/posts/rishabh-singh-3b85a6334_futureinterns-datascience-analytics-activity-7356480093109547008-136f?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFQX0LwBblkn7e0lMLwRoJd3K5M2bZey1Lw)
+- [Global Tech & AI Internship Program – MentorBaba](https://www.linkedin.com/posts/rishabh-singh-3b85a6334_global-tech-ai-internship-program-mentorbaba-activity-7348782676004204548-Om-u?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFQX0LwBblkn7e0lMLwRoJd3K5M2bZey1Lw)
 
 ---
 
