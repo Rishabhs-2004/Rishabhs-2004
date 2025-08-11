@@ -1,65 +1,76 @@
-<h1 align="center">Hi 👋, I'm Rishabh Singh</h1>
-<h3 align="center">Full Stack Developer | MCA Student | Passionate about Web & AI</h3>
+## Hi there 👋
+
+<h1 align="center">Hi there, I'm Rishabh 👋</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rishabhs-2004&label=Profile%20views&color=0e75b6&style=flat" alt="Rishabhs-2004" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MCA+Student;Node.js+%7C+Express.js+%7C+JavaScript;Cloud+%7C+DevOps+%7C+AI+Learner;Always+Learning+New+Tech" alt="Typing SVG" />
 </p>
 
 ---
 
-- 🔭 I’m currently working on **Cloud Projects, DevOps Pipelines, and AI-based apps**
-- 🌱 I’m currently learning **AWS, Jenkins, Docker, Tailwind CSS, and AI Tools**
-- 👯 I’m looking to collaborate on **full stack and AI-based web projects**
-- 💬 Ask me about **HTML, CSS, JS, Python, Flask, MySQL, Java, AI tools**
-- 📫 Mail me at **rishabhsingh8273@gmail.com**
-- 📂 All of my projects are on [GitHub](https://github.com/Rishabhs-2004)
+### 👨‍💻 About Me
+- 🎓 MCA Student, passionate about **Full Stack Development**
+- 💻 Skilled in **HTML, CSS, JavaScript, Python, Node.js, Express.js**
+- 🌱 Currently learning **Backend Development**, **AWS**, **Jenkins**, **Docker**, **Tailwind CSS**, **AI Tools**
+- 🔭 Currently working on **Cloud Projects, DevOps Pipelines, and AI-based apps**
+- 👯 Looking to collaborate on **Full Stack** and **AI-based Web Projects**
+- 💡 Interested in creating **modern websites** with clean code and great UI
+- 📫 Reach me at: **rishabhs3011@gmail.com**
+- 🌐 Portfolio: [Visit Here](https://github.com/Rishabhs-2004/My-Portfolio)
+- ⚡ Fun Fact: Coffee + Code = Perfect Combo ☕💻
 
 ---
 
-### 🌐 Connect with me:
-
-<p align="left">
-  <a href="mailto:rishabhsingh8273@gmail.com" target="blank">
-    <img align="center" src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="Mail" height="30" width="30" />
-  </a>
-  <a href="https://www.linkedin.com/in/rishabh-singh-3b85a6334" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="30"/>
-  </a>
-  <a href="https://github.com/Rishabhs-2004" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="30" width="30" />
-  </a>
-  <a href="https://instagram.com/" target="blank">
-    <img align="center" src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" alt="Instagram" height="30" width="30" />
-  </a>
-  <a href="https://facebook.com/" target="blank">
-    <img align="center" src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Facebook" height="30" width="30" />
-  </a>
+### 🛠️ Languages & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,redux,js,ts,html,css,nodejs,express,mongodb,python,git,github,vscode,postman,docker,aws,jenkins" />
 </p>
 
 ---
 
-### 🛠️ Languages and Tools:
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rishabhs-2004&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishabhs-2004&theme=radical" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabhs-2004&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
-### 📊 GitHub Stats:
+### 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishabhs-2004&theme=react-dark" />
+</p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rishabhs-2004&show_icons=true&locale=en" alt="Rishabhs-2004" />
+---
+
+### 🏗️ Featured Projects
+🚀 Some of my top work — more on my [GitHub Profile](https://github.com/Rishabhs-2004)
+
+- 🌐 [Portfolio Website](https://github.com/Rishabhs-2004/My-Portfolio)
+- ☁ Cloud Migration Project (AWS EC2 + RDS)
+- 🔧 DevOps CI/CD Pipeline with Jenkins & Docker
+- 🤖 AI-Based Applications
+
+---
+
+### 📜 Certificates
+🚧 Coming Soon...
+
+---
+
+### 🔗 Connect With Me
+<p align="center">
+  <a href="mailto:rishabhs3011@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Rishabhs-2004"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/rishabh-singh-3b85a6334"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Rishabhs-2004/My-Portfolio"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+  🥂 Thanks for visiting my profile! Let's build something amazing together 🚀
 </p>
