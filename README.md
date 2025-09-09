@@ -20,7 +20,7 @@
 - 👯 Looking to collaborate on **Full Stack** and **AI-based Web Projects**
 - 💡 Interested in creating **modern websites** with clean code and great UI
 - 📫 Reach me at: <a href="mailto:rishabhs3011@gmail.com?subject=Hello%20Rishabh&body=Hi%20Rishabh%2C%0A%0AI%20would%20like%20to%20connect%20with%20you%20regarding..." style="color:#ff6ec4;font-weight:600;">rishabhs3011@gmail.com</a>
-- 🌐 Portfolio: [https://my-portfolio-81pc.onrender.com/](https://my-portfolio-81pc.onrender.com/)
+- 🌐 Portfolio: [https://github.com/Rishabhs-2004/Rishabh-Portfolio](https://rishabh-portfolio-pcfz.onrender.com)
 - ⚡ Fun Fact: Coffee + Code = Perfect Combo ☕💻
 
 ---
@@ -71,7 +71,7 @@
 ### 🏗️ Featured Projects
 🚀 Some of my top work — more on my [GitHub Profile](https://github.com/Rishabhs-2004)
 
-- 🌐 [Portfolio Website](https://my-portfolio-81pc.onrender.com/)
+- 🌐 [Portfolio Website](https://github.com/Rishabhs-2004/Rishabh-Portfolio)
 - ☁ Cloud Migration Project (AWS EC2 + RDS)
 - 🔧 DevOps CI/CD Pipeline with Jenkins & Docker
 - 🤖 AI-Based Applications
