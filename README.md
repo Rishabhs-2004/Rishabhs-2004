@@ -78,12 +78,7 @@
 
 ---
 
-### 📜 Certificates
-- [Cybersecurity – Cisco Networking Academy](https://www.linkedin.com/posts/rishabh-singh-3b85a6334_cybersecurity-cisco-networkingacademy-activity-7356481083502211074-LaB3)
-- [Data Science & Analytics – Future Interns](https://www.linkedin.com/posts/rishabh-singh-3b85a6334_futureinterns-datascience-analytics-activity-7356480093109547008-136f)
-- [Global Tech & AI Internship Program – MentorBaba](https://www.linkedin.com/posts/rishabh-singh-3b85a6334_global-tech-ai-internship-program-mentorbaba-activity-7348782676004204548-Om-u)
 
----
 
 ### 🔗 Connect With Me
 <p align="center">
