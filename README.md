@@ -5,38 +5,37 @@
 </p>
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently building an **AI-Powered Resume Builder** and other **MERN Stack** projects.
-- 🌐 Check out my **[Portfolio Website](https://rishabh-portfolio-pcfz.onrender.com)**.
-- 🌱 Learning **Cloud Architecture** and **Backend Scaling**.
-- 💬 Ask me about **React, Node.js, and MongoDB**.
-- 📫 Reach me at: **rishabhs3011@gmail.com**
-
----
-
-### 🛠️ My Tech Stack
-
-| Frontend | Backend | Database & Tools |
-| :--- | :--- | :--- |
-| <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> | <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> | <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /> |
-| <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> | <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" /> | <img src="https://img.shields.io/badge/Git-E44C30?style=flat-square&logo=git&logoColor=white" /> |
-| <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> | <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /> | <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" /> |
-| <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /> | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> | <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" /> |
+- 🔭 Working on **Scalable MERN Stack Apps**.
+- 🌐 Explore my **[Portfolio Website](https://rishabh-portfolio-pcfz.onrender.com)**.
+- 🌱 Learning **Cloud & Backend Scaling**.
+- 📫 Email: **rishabhs3011@gmail.com**
 
 ---
 
 ### 🌟 Featured Projects
 
-#### 1. [AI-Powered Resume Builder](https://rishabhs-2004.github.io/resume-builder/)
-> A professional tool with AI ATS Assistant, Dynamic QR Codes, and Real-time Customization.
-- **[Live Demo 🚀](https://rishabhs-2004.github.io/resume-builder/)** | **[Source Code 📂](https://github.com/Rishabhs-2004/resume-builder)**
+| Project Name | Live Demo (Click Below) | Source Code |
+| :--- | :--- | :--- |
+| **AI Resume Builder** | [![Live Demo](https://img.shields.io/badge/LIVE%20DEMO-🚀-blue?style=for-the-badge)](https://rishabhs-2004.github.io/resume-builder/) | [📂 Code](https://github.com/Rishabhs-2004/resume-builder) |
+| **Startup Benefits** | [![Live Demo](https://img.shields.io/badge/LIVE%20DEMO-🚀-orange?style=for-the-badge)](https://startup-benefits-frontend.onrender.com) | [📂 Code](https://github.com/Rishabhs-2004) |
+| **Personal Portfolio** | [![Live Demo](https://img.shields.io/badge/LIVE%20DEMO-🚀-indigo?style=for-the-badge)](https://rishabh-portfolio-pcfz.onrender.com) | [📂 Code](https://github.com/Rishabhs-2004) |
 
-#### 2. [Startup Benefits Platform](https://startup-benefits-frontend.onrender.com)
-> A comprehensive platform built to manage and showcase startup benefits efficiently.
-- **[Live Demo 🚀](https://startup-benefits-frontend.onrender.com)** | **[Source Code 📂](https://github.com/Rishabhs-2004)**
+> 💡 **Note**: If "Startup Benefits" takes time to load, please wait 30-60 seconds for Render to wake up. For "Resume Builder", ensure GitHub Pages is active in repo settings.
 
-#### 3. [Personal Portfolio](https://rishabh-portfolio-pcfz.onrender.com)
-> My professional portfolio showcasing my skills, projects, and journey as a developer.
-- **[Live Demo 🚀](https://rishabh-portfolio-pcfz.onrender.com)**
+---
+
+### 🛠️ My Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-E44C30?style=flat-square&logo=git&logoColor=white" />
+</p>
 
 ---
 
@@ -51,19 +50,16 @@
 ### 🤝 Let's Connect
 <p align="left">
 <a href="https://www.linkedin.com/in/rishabh-singh-3b85a334" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/Rishabhs-2004" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://www.instagram.com/rishabh_singh3011" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 <a href="https://www.facebook.com/rishabh.singh.3011" target="_blank">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 <a href="mailto:rishabhs3011@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </p>
 
