@@ -28,38 +28,48 @@
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <br>
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
 </p>
 
 ---
 
 ### 🌟 Featured Project
 **[AI-Powered Resume Builder](https://github.com/Rishabhs-2004/resume-builder)**
+
+<p align="left">
+<a href="https://rishabhs-2004.github.io/resume-builder/" target="_blank">
+  <img src="https://img.shields.io/badge/LIVE%20DEMO-🚀-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live Demo" />
+</a>
+<a href="https://github.com/Rishabhs-2004/resume-builder" target="_blank">
+  <img src="https://img.shields.io/badge/Source%20Code-📂-black?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
+</a>
+</p>
+
 > A professional tool with AI ATS Assistant, Dynamic QR Codes, and Real-time Customization. Built with high precision for modern job seekers.
-> **[Live Demo](https://rishabhs-2004.github.io/resume-builder/)**
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rishabhs-2004&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Rishabh's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rishabhs-2004&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishabhs-2004&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishabhs-2004&theme=dark" alt="GitHub Streak" />
 </p>
 
 ---
 
 ### 🤝 Connect with Me
 <p align="left">
-<a href="https://linkedin.com/in/Rishabhs-2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rishabh" height="30" width="40" /></a>
-<a href="https://github.com/Rishabhs-2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Rishabh" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rishabh-singh-3b85a334" target="blank">
+  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://github.com/Rishabhs-2004" target="blank">
+  <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://www.instagram.com/rishabh_singh3011?igsh=M2VoaHJteDc1d3R1" target="blank">
+  <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
 </p>
 
 <p align="center">
