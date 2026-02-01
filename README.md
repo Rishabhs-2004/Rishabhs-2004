@@ -6,9 +6,10 @@
 
 ### 👨‍💻 About Me
 - 🔭 I’m currently building an **AI-Powered Resume Builder** and other **MERN Stack** projects.
+- 🌐 Check out my **[Portfolio Website](https://rishabh-portfolio-pcfz.onrender.com)**.
 - 🌱 Learning **Cloud Architecture** and **Backend Scaling**.
 - 💬 Ask me about **React, Node.js, and MongoDB**.
-- 📫 Reach me at: **rishabhsingh3011@gmail.com**
+- 📫 Reach me at: **rishabhs3011@gmail.com**
 
 ---
 
@@ -23,28 +24,23 @@
 
 ---
 
-### 🌟 Top Project: Resume Builder
-A professional tool with **AI Summary**, **ATS Assistant**, and **Live Preview**.
+### 🌟 Featured Projects
 
 <p align="left">
-<a href="https://rishabhs-2004.github.io/resume-builder/" target="_blank">
-  <img src="https://img.shields.io/badge/-LIVE%20DEMO%20NOW-success?style=for-the-badge&logo=rocket" />
+<a href="https://rishabh-portfolio-pcfz.onrender.com" target="_blank">
+  <img src="https://img.shields.io/badge/MY%20PORTFOLIO-🌐-indigo?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
 </a>
-<a href="https://github.com/Rishabhs-2004/resume-builder" target="_blank">
-  <img src="https://img.shields.io/badge/-PROJECT%20CODE-blue?style=for-the-badge&logo=github" />
+<a href="https://rishabhs-2004.github.io/resume-builder/" target="_blank">
+  <img src="https://img.shields.io/badge/RESUME%20BUILDER-🚀-blue?style=for-the-badge&logo=rocket&logoColor=white" alt="Resume Builder" />
 </a>
 </p>
 
 ---
 
-### 📊 GitHub Activity
+### 📊 GitHub Analysis
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rishabhs-2004&show_icons=true&theme=nightowl&hide_border=true&border_radius=10" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabhs-2004&layout=compact&theme=nightowl&hide_border=true&border_radius=10" width="38%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishabhs-2004&theme=nightowl&hide_border=true&border_radius=10" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rishabhs-2004&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rishabhs-2004&layout=compact&theme=tokyonight" width="38%" />
 </p>
 
 ---
@@ -54,10 +50,16 @@ A professional tool with **AI Summary**, **ATS Assistant**, and **Live Preview**
 <a href="https://www.linkedin.com/in/rishabh-singh-3b85a334" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://www.instagram.com/rishabh_singh3011?igsh=M2VoaHJteDc1d3R1" target="_blank">
+<a href="https://github.com/Rishabhs-2004" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/rishabh_singh3011" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<a href="mailto:rishabhsingh3011@gmail.com" target="_blank">
+<a href="https://www.facebook.com/rishabh.singh.3011" target="_blank">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+<a href="mailto:rishabhs3011@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </p>
