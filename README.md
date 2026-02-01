@@ -20,8 +20,6 @@
 | **Startup Benefits** | [![Live Demo](https://img.shields.io/badge/LIVE%20DEMO-🚀-orange?style=for-the-badge)](https://startup-benefits-frontend.onrender.com) | [📂 Code](https://github.com/Rishabhs-2004) |
 | **Personal Portfolio** | [![Live Demo](https://img.shields.io/badge/LIVE%20DEMO-🚀-indigo?style=for-the-badge)](https://rishabh-portfolio-pcfz.onrender.com) | [📂 Code](https://github.com/Rishabhs-2004) |
 
-> 💡 **Note**: If "Startup Benefits" takes time to load, please wait 30-60 seconds for Render to wake up. For "Resume Builder", ensure GitHub Pages is active in repo settings.
-
 ---
 
 ### 🛠️ My Tech Stack
@@ -49,13 +47,16 @@
 
 ### 🤝 Let's Connect
 <p align="left">
-<a href="https://www.linkedin.com/in/rishabh-singh-3b85a334" target="_blank">
+<a href="https://www.linkedin.com/in/rishabh-singh-3b85a6334/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://www.instagram.com/rishabh_singh3011" target="_blank">
+<a href="https://github.com/Rishabhs-2004" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/code.by.rishabh" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<a href="https://www.facebook.com/rishabh.singh.3011" target="_blank">
+<a href="https://www.facebook.com/profile.php?id=61556298780250" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 <a href="mailto:rishabhs3011@gmail.com" target="_blank">
