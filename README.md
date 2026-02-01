@@ -5,7 +5,7 @@
 </p>
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently building an **AI-Powered Resume Builder** and other **MERN Stack** projects.
+- 🔭 I’m currently building **Scalable MERN Stack Applications**.
 - 🌐 Check out my **[Portfolio Website](https://rishabh-portfolio-pcfz.onrender.com)**.
 - 🌱 Learning **Cloud Architecture** and **Backend Scaling**.
 - 💬 Ask me about **React, Node.js, and MongoDB**.
@@ -27,11 +27,14 @@
 ### 🌟 Featured Projects
 
 <p align="left">
-<a href="https://rishabh-portfolio-pcfz.onrender.com" target="_blank">
-  <img src="https://img.shields.io/badge/MY%20PORTFOLIO-🌐-indigo?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+<a href="https://startup-benefits-frontend.onrender.com" target="_blank">
+  <img src="https://img.shields.io/badge/STARTUP%20BENEFITS-💡-orange?style=for-the-badge&logo=render&logoColor=white" alt="Startup Benefits" />
 </a>
 <a href="https://rishabhs-2004.github.io/resume-builder/" target="_blank">
   <img src="https://img.shields.io/badge/RESUME%20BUILDER-🚀-blue?style=for-the-badge&logo=rocket&logoColor=white" alt="Resume Builder" />
+</a>
+<a href="https://rishabh-portfolio-pcfz.onrender.com" target="_blank">
+  <img src="https://img.shields.io/badge/MY%20PORTFOLIO-🌐-indigo?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
 </a>
 </p>
 
