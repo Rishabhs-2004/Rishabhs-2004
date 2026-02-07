@@ -17,7 +17,7 @@
 | Project Name | Live Demo (Click Below) | Source Code |
 | :--- | :--- | :--- |
 | **AI Resume Builder** | [![Live Demo](https://img.shields.io/badge/LIVE%20DEMO-🚀-blue?style=for-the-badge)](https://rishabhs-2004.github.io/resume-builder/) | [📂 Code](https://github.com/Rishabhs-2004/resume-builder) |
-| **Startup Benefits** | [![Live Demo](https://img.shields.io/badge/LIVE%20DEMO-🚀-orange?style=for-the-badge)](https://startup-benefits-frontend.onrender.com) | [📂 Code](https://github.com/Rishabhs-2004/Startup-Benefits-Platform-project) |
+| **Startup Benefits** | [![Live Demo](https://img.shields.io/badge/LIVE%20DEMO-🚀-orange?style=for-the-badge)](https://startup-benefits-platform-project.vercel.app) | [📂 Code](https://github.com/Rishabhs-2004/Startup-Benefits-Platform-project) |
 | **Personal Portfolio** | [![Live Demo](https://img.shields.io/badge/LIVE%20DEMO-🚀-indigo?style=for-the-badge)](https://rishabh-portfolio-pcfz.onrender.com) | [📂 Code](https://github.com/Rishabhs-2004) |
 
 ---
