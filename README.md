@@ -5,11 +5,14 @@
 </p>
 
 ### 👨‍💻 About Me
-- 🔭 Working on **Scalable MERN Stack Apps**.
-- 🌐 Explore my **[Portfolio Website](https://rishabh-portfolio-pcfz.onrender.com)**.
-- 🌱 Learning **Cloud & Backend Scaling**.
-- 📫 Email: **rishabhs3011@gmail.com**
+🚀 MERN Stack Developer passionate about building scalable and efficient web applications  
 
+💻 Skilled in React.js, Node.js, Express, and MongoDB  
+📌 Strong focus on backend development, APIs, and clean architecture  
+☁️ Currently learning Cloud & Backend Scaling  
+
+🌐 Portfolio: https://rishabh-portfolio-pcfz.onrender.com  
+📫 Email: rishabhs3011@gmail.com  
 ---
 
 ### 🌟 Featured Projects
