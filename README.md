@@ -1,72 +1,130 @@
-# 🚀 Hi there, I'm Rishabh! <img src="https://raw.githubusercontent.com/MartinS034/MartinS034/main/wave.gif" width="30px">
-
+<!-- ANIMATED HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=4F46E5&center=true&vCenter=true&width=435&lines=MERN+Stack+Developer;Creative+UI%2FUX+Designer;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,50:2563EB,100:9333EA&height=220&section=header&text=RISHABH%20SINGH&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER&descAlignY=58&descSize=18" width="100%" />
 </p>
 
-### 👨‍💻 About Me
-🚀 MERN Stack Developer passionate about building scalable and efficient web applications  
+<h1 align="center">👋 Hey, I'm Rishabh!</h1>
 
-💻 Skilled in React.js, Node.js, Express, and MongoDB  
-📌 Strong focus on backend development, APIs, and clean architecture  
-☁️ Currently learning Cloud & Backend Scaling  
-
-🌐 Portfolio: https://rishabh-portfolio-pcfz.onrender.com  
-📫 Email: rishabhs3011@gmail.com  
----
-
-### 🌟 Featured Projects
-
-| Project Name | Live Demo (Click Below) | Source Code |
-| :--- | :--- | :--- |
-| **AI Resume Builder** | [![Live Demo](https://img.shields.io/badge/LIVE%20DEMO-🚀-blue?style=for-the-badge)](https://rishabhs-2004.github.io/resume-builder/) | [📂 Code](https://github.com/Rishabhs-2004/resume-builder) |
-| **Startup Benefits** | [![Live Demo](https://img.shields.io/badge/LIVE%20DEMO-🚀-orange?style=for-the-badge)](https://startup-benefits-platform-project.vercel.app) | [📂 Code](https://github.com/Rishabhs-2004/Startup-Benefits-Platform-project) |
-| **Personal Portfolio** | [![Live Demo](https://img.shields.io/badge/LIVE%20DEMO-🚀-indigo?style=for-the-badge)](https://rishabh-portfolio-pcfz.onrender.com) | [📂 Code](https://github.com/Rishabhs-2004) |
-
----
-
-### 🛠️ My Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-E44C30?style=flat-square&logo=git&logoColor=white" />
-</p>
-
----
-
-### 📊 GitHub Analysis
+<!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rishabhs-2004&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Rishabhs-2004&layout=compact&theme=tokyonight" width="38%" />
-</p>
-
----
-
-### 🤝 Let's Connect
-<p align="left">
-<a href="https://www.linkedin.com/in/rishabh-singh-3b85a6334/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/Rishabhs-2004" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/code.by.rishabh" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="https://www.facebook.com/profile.php?id=61556298780250" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=rishabhs3011@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C9A7&center=true&vCenter=true&width=600&lines=Aspiring+Full+Stack+Developer;MERN+Stack+Developer;Creative+Problem+Solver;Always+Learning+New+Technologies" />
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=4F46E5&height=100&section=footer" />
+  <img src="https://komarev.com/ghpvc/?username=Rishabhs-2004&style=for-the-badge&color=00C9A7&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/github/followers/Rishabhs-2004?style=for-the-badge&color=2563EB&label=FOLLOWERS" />
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 MCA Graduate from GLA University.
+- 💻 Aspiring Full Stack Developer.
+- 🚀 Interested in MERN Stack Development.
+- 🌱 Currently learning Java, Python and DSA.
+- ☁️ Exploring Backend Development and Cloud Technologies.
+- 🎯 Looking for opportunities to start my career as a Software Developer.
+
+---
+
+## 💻 My Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,python,git,github,vscode&perline=6" />
+</p>
+
+---
+
+## 🚀 My Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">🤖 AI Resume Builder</h3>
+<p align="center">Create professional resumes with an easy-to-use web application.</p>
+<p align="center">
+<a href="https://rishabhs-2004.github.io/resume-builder/">
+<img src="https://img.shields.io/badge/Live-Demo-00C9A7?style=for-the-badge" />
+</a>
+<a href="https://github.com/Rishabhs-2004/resume-builder">
+<img src="https://img.shields.io/badge/Source-Code-181717?style=for-the-badge&logo=github" />
+</a>
+</p>
+</td>
+<td width="50%">
+<h3 align="center">🎁 Startup Benefits Platform</h3>
+<p align="center">A platform focused on startup benefits and deals.</p>
+<p align="center">
+<a href="https://startup-benefits-platform-project.vercel.app">
+<img src="https://img.shields.io/badge/Live-Demo-9333EA?style=for-the-badge" />
+</a>
+<a href="https://github.com/Rishabhs-2004/Startup-Benefits-Platform-project">
+<img src="https://img.shields.io/badge/Source-Code-181717?style=for-the-badge&logo=github" />
+</a>
+</p>
+</td>
+</tr>
+</table>
+
+<p align="center">
+  🌐 <b>Personal Portfolio</b><br/>
+  <a href="https://rishabh-portfolio-pcfz.onrender.com">
+    <img src="https://img.shields.io/badge/Visit_My_Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rishabhs-2004&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabhs-2004&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="75%" src="https://streak-stats.demolab.com?user=Rishabhs-2004&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Watch My Contributions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Rishabhs-2004/Rishabhs-2004/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution Snake Animation" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rishabh-singh-3b85a6334/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:rishabhs3011@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://www.instagram.com/code.by.rishabh">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram" />
+  </a>
+  <a href="https://github.com/Rishabhs-2004">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+<p align="center">
+  <b>🌐 Portfolio:</b>
+  <a href="https://rishabh-portfolio-pcfz.onrender.com">Visit My Website</a>
+</p>
+
+---
+
+<h2 align="center">💫 Keep Coding, Keep Growing!</h2>
+
+<h3 align="center">"Code. Learn. Build. Repeat." 🚀</h3>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,50:2563EB,100:9333EA&height=130&section=footer" width="100%" />
 </p>
